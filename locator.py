@@ -65,7 +65,7 @@ no = ["no" , "n"]
 yes = ["yes" , "y"]
 cont =""
 
-while True:
+while cont not in no:
     program()
 
     cont = input(ran + "\nDo you want to continue? [y/n]:" + lg).lower()
