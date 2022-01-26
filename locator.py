@@ -32,6 +32,7 @@ def program():
 
     try:
         mobile_number = input(ran+"\nType phone number with country code: " +Style.BRIGHT +Fore.LIGHTYELLOW_EX)
+        mobile_number = mobile_number.replace(" ", "")
         try:
             mobile_number = phonenumbers.parse(mobile_number)
 
