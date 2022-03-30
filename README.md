@@ -3,7 +3,7 @@ Get information of any phone number. A simple color full tool in python3 for ext
 
 # Usage
 1. apt install python3
-2. git clone https://github.com/Saadkhan041/Phone_Reader
+2. git clone https://github.com/Cyber-Dioxide/Phone_Reader
 3. cd Phone_Reader
 4. ls
 5. pip instll -r requirements.txt
@@ -17,5 +17,5 @@ Get information of any phone number. A simple color full tool in python3 for ext
 
 
 # Help
-For any question, iam mostly active on instagram @coding_memz , @saadkhan041
+For any question, iam mostly active on instagram @cyber_dioxide , @cyber_dioxide_
 
