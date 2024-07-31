@@ -21,5 +21,5 @@ Get information of any phone number. A simple color full tool in python3 for ext
 
 
 # Help
-For any question, iam mostly active on instagram @cyber_dioxide , @cyber_dioxide_
+For any question, iam mostly active on [Telegram](https://www.cyberdioxide.com/p/contact.html)
 
